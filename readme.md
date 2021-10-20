@@ -44,7 +44,10 @@
 
 **SocketIO**
     - Instalação
-        yarn add socket.io
+        - Node
+            yarn add socket.io
+        - React
+            yarn add socket.io-client
 
     - Tipagem
         yarn add -D @types/socket.io
@@ -58,5 +61,18 @@
     - Tipagem
         yarn add -D @types/cors
 
+**Vite**
+    Compilador de sintaxes para o navegador (TS, Sass...)
+
+    - Criar o app
+        yarn create vite web --template react-ts
+
+**Sass**
+    yarn add sass
+
+**React icons**
+    yarn add react-icons
+
 **Códigos**
     1. Dia 01 - #RumoAoProximoNivel
+    2. Dia 02 - #Protagonistas
